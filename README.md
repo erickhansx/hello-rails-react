@@ -29,9 +29,9 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# 📖 [PetBNB] <a name="about-project"></a>
+# 📖 [Hello-Rails-React] <a name="about-project"></a>
 
-**[Hello-react-rails]** is an app created using React Rails Webpack. It displays a random message retrieved from the api.
+**[Hello-Rails-React]** is an app created using React Rails Webpack. It displays a random message retrieved from the api.
 
 ## 🛠 Built With <a name="built-with"></a>
 
